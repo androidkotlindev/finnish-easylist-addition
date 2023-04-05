@@ -182,7 +182,7 @@ alypaa.com,pelikone.fi##.text-link[href*="&utm_medium=banner&utm_campaign="]
 alypaa.com,pelikone.fi##.text-link[href^="https://clk.tradedoubler.com/"]
 ampparit.com##.mobile-leaderboard-container
 ampparit.com##.resize-container
-ampparit.com,iijokiseutu.fi,kaleva.fi,keskustelu.suomi24.fi,kirkkojakaupunki.fi,koillissanomat.fi,kuntalehti.fi,lapinkansa.fi,luukku.com,mtvuutiset.fi,pyhajokiseutu.fi,raahenseutu.fi,rantalakeus.fi,seiska.fi,siikajokilaakso.fi,studio55.fi,styleroom.fi,viinilehti.fi##.ad-container
+ampparit.com,iijokiseutu.fi,kaleva.fi,kirkkojakaupunki.fi,koillissanomat.fi,kuntalehti.fi,lapinkansa.fi,luukku.com,mtvuutiset.fi,pyhajokiseutu.fi,raahenseutu.fi,rantalakeus.fi,seiska.fi,siikajokilaakso.fi,studio55.fi,styleroom.fi,viinilehti.fi##.ad-container
 anna.fi##.kaupalliset
 anna.fi##div.grid__item_tn-1-2
 anna.fi#?#.grid__item_1:-abp-has(> [id^=dfp__native-card])
