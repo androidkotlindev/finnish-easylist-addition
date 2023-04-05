@@ -295,7 +295,6 @@ enontekionsanomat.fi,kittilalehti.fi,luoteis-lappi.fi##.isosentteri1
 enontekionsanomat.fi,inarilainen.fi,kittilalehti.fi,luoteis-lappi.fi,sompio.fi##.paraati1
 enontekionsanomat.fi,kittilalehti.fi,luoteis-lappi.fi##[href^="/uutiset/mainos-"]
 epari.fi,ilkkapohjalainen.fi,jarviseutu-lehti.fi,jurvansanomat.fi,komiat.fi,suupohjansanomat.fi,vaasalehti.fi,viiskunta.fi#?#article > div[class]:has-text(Mainos (sisältö jatkuu alla))
-epari.fi,ilkkapohjalainen.fi,jarviseutu-lehti.fi,jurvansanomat.fi,komiat.fi,suupohjansanomat.fi,viiskunta.fi##.ads__wrapper
 epari.fi,ilkkapohjalainen.fi,jarviseutu-lehti.fi,jurvansanomat.fi,komiat.fi,suupohjansanomat.fi,viiskunta.fi##.pointti_container
 epari.fi,ilkkapohjalainen.fi,jarviseutu-lehti.fi,jurvansanomat.fi,komiat.fi,suupohjansanomat.fi,viiskunta.fi#?#._3GUme._1hdYd:-abp-has(a[href^="https://pointti.fi"])
 epari.fi,ilkkapohjalainen.fi,jarviseutu-lehti.fi,vaasalehti.fi#?#.voice-no-read:has-text(Mainos päättyy)
