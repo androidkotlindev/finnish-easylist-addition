@@ -182,7 +182,7 @@ alypaa.com,pelikone.fi##.text-link[href*="&utm_medium=banner&utm_campaign="]
 alypaa.com,pelikone.fi##.text-link[href^="https://clk.tradedoubler.com/"]
 ampparit.com##.mobile-leaderboard-container
 ampparit.com##.resize-container
-ampparit.com,iijokiseutu.fi,kaleva.fi,kirkkojakaupunki.fi,koillissanomat.fi,kuntalehti.fi,lapinkansa.fi,luukku.com,mtvuutiset.fi,pyhajokiseutu.fi,raahenseutu.fi,rantalakeus.fi,seiska.fi,siikajokilaakso.fi,studio55.fi,styleroom.fi,viinilehti.fi##.ad-container
+ampparit.com,iijokiseutu.fi,kaleva.fi,kirkkojakaupunki.fi,koillissanomat.fi,kuntalehti.fi,lapinkansa.fi,luukku.com,mtvuutiset.fi,pyhajokiseutu.fi,raahenseutu.fi,rantalakeus.fi,seiska.fi,siikajokilaakso.fi,styleroom.fi,viinilehti.fi##.ad-container
 anna.fi#?#.grid__item_1:-abp-has(> [id^=dfp__native-card])
 anna.fi#?#li:-abp-has([id^=dfp__native-card])
 anna.fi,kaksplus.fi##.widget_nativearticles
@@ -1434,7 +1434,7 @@ arvopaperi.fi,kauppalehti.fi,mediuutiset.fi,mikrobitti.fi,talouselama.fi,tekniik
 ||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^$media
 
 ! Prevent clicking video ads on MTV Oy
-mtvuutiset.fi,mtv.fi,suomiareena.fi,studio55.fi,msn.com##.mtv-player-ad-container
+mtvuutiset.fi,mtv.fi,suomiareena.fi,msn.com##.mtv-player-ad-container
 ||cloudfront.net/creatives/assets/$image,domain=mtvuutiset.fi
 @@||fi-mtv3.videoplaza.tv/proxy/pulse-sdk-html5/*/latest.min.js
 
