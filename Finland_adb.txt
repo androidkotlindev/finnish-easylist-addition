@@ -687,8 +687,6 @@ m.nettiauto.com,m.nettikaravaani.com,m.nettikone.com,m.nettimarkkina.com,m.netti
 m.nettimarkkina.com,m.nettimokki.com##.itemlist > li:not(.block_list_li)
 m.tori.fi##.appnexus-container
 maalampofoorumi.fi##div#sponsor
-maaseuduntulevaisuus.fi##.ads__native-tall-teaser
-maaseuduntulevaisuus.fi##.banners__suomen-parhaat
 maaseuduntulevaisuus.fi##div[class*="ArticleTeaserGroup_nativeAd"]
 maaseuduntulevaisuus.fi#?#div[class^=MainLane_laneItem]:-abp-has(div[class^=ArticleBanner_advertorial])
 maaseutumedia.fi##.header_banner
