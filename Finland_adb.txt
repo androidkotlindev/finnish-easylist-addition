@@ -578,9 +578,6 @@ keskustelu.suomi24.fi##div[class^=RightSidePanel__AdContainer]
 kiakkoradio.fi#?#[class|="wp-block-ultimate-post-post-list"]:-abp-has(.ultp-cat-mainos)
 kiekkofani.com##.kiekk-footer-sticky[data-kiekk-trackbid]
 kiekkofani.com,penkkiurheilu.com##[style^="text-align:center;margin-left:auto !important;margin-right:auto !important;height: 420px; margin-top:60px"]
-kiinteistolehti.fi###new-post-list-headings-17
-kiinteistolehti.fi##.mpc-row.vc_custom_1515749959295.vc_row-fluid.wpb_row.vc_row
-kiinteistolehti.fi##.mpc-row.vc_custom_1515750168978.vc_row-fluid.wpb_row.vc_row
 kiinteistoposti.fi##.kiint-adlabel
 kiinteistoposti.fi##.kiint-widget
 kiinteistoposti.fi#?#.featuredpost:-abp-has(.gb-post-grid-section-title:has-text(Kaupallinen yhteistyö))
