@@ -437,7 +437,6 @@ hbl.fi,ostnyland.fi,vastranyland.fi##.dre-item--feature-advertorial
 heili.fi###sp-alabanneri
 heili.fi##.autoboksi.moduletable
 heili.fi,outokummunseutu.fi,pielisjokiseutu.fi,pogostansanomat.fi,prsanomat.fi,ylakarjala.fi##.jattiboksi.moduletable
-helsinginuutiset.fi,vihdinuutiset.fi##div[class*=lyads]
 helsinkitimes.fi##.banneritem
 helsinkitimes.fi#?#.module:-abp-has(.bannergroup)
 hevosurheilu.fi##[data-test-id="ad"]
