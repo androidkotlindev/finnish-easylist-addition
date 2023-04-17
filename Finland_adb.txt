@@ -713,8 +713,6 @@ metsalehti.fi##.teaser-top-banner--partner
 metsalehti.fi##[data-set="main-ad"]
 metsastajaliitto.fi#?#.frontpage-ad-item:not(:-abp-has([href^="https://metsastajaliitto.fi/"]))
 metsastajaliitto.fi#?#.view-id-jahtimedia_latest .list-item:-abp-has([href^="https://jahtimedia.fi/mainokset/"])
-mikrobitti.fi##.is-visible.LazyLoad
-mikrobitti.fi##aside > div > div > a[href^="https://studio.mikrobitti.fi/mikrobitti-studiovieras/"]
 mikrobitti.fi#?#div[class]:-abp-has(> [width] > [id|="almad"]:not([id|="almad-mobileParade"]))
 mikrobitti.fi#?#div[class][width]:-abp-has([id|="almad-mobileParade"])
 mikrobitti.fi#?#div[style="margin-bottom:0"]:-abp-has(a[href^="https://www.mikrobitti.fi/kumppanisisallot/"])
