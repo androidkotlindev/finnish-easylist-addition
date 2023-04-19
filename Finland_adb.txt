@@ -883,9 +883,6 @@ rumba.fi#?#.bg-white.w-full.py-2.px-4:-abp-has(.poppartners)
 ruuhkavuodet.fi##div[class|="g g"]
 ruuhkavuodet.fi#?#.widget_block:-abp-has(#nm-300x600-300x300)
 sammysatv.com##a[href*=banner]
-satakunnankansa.fi##div[class=s-ryhma-carousel-wrapper]
-satakunnankansa.fi##div[class^=adContainer]
-satakunnankansa.fi#?#article.list:has-text(Mainokset)
 satakunnanviikko.fi##.panoraama_etus
 seiska.fi#?##article-body > div[class]:-abp-has(.ad-container)
 seiska.fi#?##article-body > div[class^="sc-"]:has-text(/Juttu jatkuu ilmoituksen jälkeen|ilmoitus päättyy/i)
