@@ -636,7 +636,6 @@ kuvake.net###ticker
 kuvake.net,kuvaton.com##.addme
 kuvaton.com,viikonloppu.com##[href^="https://www.kasinokaverit.com/"]
 kuvaton.com,viikonloppu.com##[href^="https://www.lainaovi.fi/"]
-kymensanomat.fi,ess.fi##.page-notes > .note--highlight
 laitilansanomat.fi#?#.wpb_wrapper.wpb_text_column.td_block_wrap:-abp-has([auto-grid-data*=mainos])
 laliiga.com,leijonat.com,suomif1.com##.lead-collector-cta
 lapinkansa.fi###content1-container
