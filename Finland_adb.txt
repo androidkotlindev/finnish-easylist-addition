@@ -972,7 +972,7 @@ suomifutis.com#?#.menu-item:-abp-has([href*="/veikkausvihjeet"])
 suomikiekko.com#?#.menu-item:-abp-has([href$="/pitkavetovihjeet/"])
 suomimobiili.fi##.artikkelimainos
 suomimobiili.fi##.headermainos
-suomimobiili.fi#?#.article-content > p:has-text(MAINOS)
+suomimobiili.fi##.natiivilinkit
 suomimobiili.fi#?#.posts-list > .list-item:-abp-has([href="https://suomimobiili.fi/kategoria/sponsoroitu/"])
 suomimobiili.fi#?#.posts-listing-list-alt-b:has-text(Artikkeleita kumppaneilta)
 superlehti.fi##.ad-banner-lift
